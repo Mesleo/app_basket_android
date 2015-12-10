@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basket</string>
+    <string name="title_activity_main2">Nombrar equipos</string>
+    <string name="reset">Resetear resultados</string>
+    <string name="rename">Nombrar equipos</string>
+    <string name="action_settings">Configuración</string>
+    <string name="exit">Salir</string>
+</resources>
